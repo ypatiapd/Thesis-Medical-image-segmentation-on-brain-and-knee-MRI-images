@@ -1,0 +1,24 @@
+Results for c1 value :0.1
+Total Accuracy: 0.95705
+ f1 :0.9581388550185991
+Total Precision :0.9608959520609729
+Total Recall :0.95705
+  
+Results for c1 value :1
+Total Accuracy: 0.96485
+ f1 :0.9658875121888141
+Total Precision :0.9680351157924589
+Total Recall :0.96485
+  
+Results for c1 value :10
+Total Accuracy: 0.96785
+ f1 :0.9689461114967824
+Total Precision :0.9711806106085401
+Total Recall :0.96785
+  
+Results for c1 value :100
+Total Accuracy: 0.9673
+ f1 :0.9684856570901309
+Total Precision :0.9709685887959566
+Total Recall :0.9673
+  

@@ -1,0 +1,144 @@
+Results for c1 value :0.01
+Total Accuracy: 0.9436
+ f1 :0.9431405209411463
+Total Precision :0.9479623634619943
+Total Recall :0.9436
+Class1 precision: 0.9947473026689381
+Class2 precision: 0.7775366250678242
+Class3 precision: 0.852095966253625
+Class4 precision: 0.6992753623188406
+Class1 recall: 0.9509398113591641
+Class2 recall: 0.9421433267587114
+Class3 recall: 0.9871716554673182
+Class4 recall: 0.41239316239316237
+ Misclassified 4s to class 2: 230
+ Misclassified 2s to class 4: 11
+  
+Results for c1 value :0.1
+Total Accuracy: 0.956
+ f1 :0.956837614726966
+Total Precision :0.9597297709469682
+Total Recall :0.956
+Class1 precision: 0.9976703141546064
+Class2 precision: 0.8357600465928946
+Class3 precision: 0.8773173391494002
+Class4 precision: 0.7444444444444445
+Class1 recall: 0.9589468684264097
+Class2 recall: 0.9434582511505588
+Class3 recall: 0.982895540623091
+Class4 recall: 0.7158119658119658
+ Misclassified 4s to class 2: 115
+ Misclassified 2s to class 4: 50
+  
+Results for c1 value :1
+Total Accuracy: 0.9571
+ f1 :0.9581819115544423
+Total Precision :0.9609315422681438
+Total Recall :0.9571
+Class1 precision: 0.9976052965206367
+Class2 precision: 0.864
+Class3 precision: 0.8766447368421053
+Class4 precision: 0.7107750472589792
+Class1 recall: 0.9611182737327815
+Class2 recall: 0.9230769230769231
+Class3 recall: 0.9767868051313379
+Class4 recall: 0.8034188034188035
+ Misclassified 4s to class 2: 83
+ Misclassified 2s to class 4: 78
+  
+Results for c1 value :10
+Total Accuracy: 0.94295
+ f1 :0.9450841300950075
+Total Precision :0.950983539133637
+Total Recall :0.94295
+Class1 precision: 0.9985651768419542
+Class2 precision: 0.8668769716088328
+Class3 precision: 0.8186261898636481
+Class4 precision: 0.6519524617996605
+Class1 recall: 0.944493451855873
+Class2 recall: 0.903353057199211
+Class3 recall: 0.9718998167379352
+Class4 recall: 0.8205128205128205
+ Misclassified 4s to class 2: 74
+ Misclassified 2s to class 4: 115
+  
+Results for c1 value :100
+Total Accuracy: 0.942
+ f1 :0.9442336139816769
+Total Precision :0.9502984585314352
+Total Recall :0.942
+Class1 precision: 0.998493327593629
+Class2 precision: 0.8664122137404581
+Class3 precision: 0.8170136211770753
+Class4 precision: 0.6377295492487479
+Class1 recall: 0.9443577390242247
+Class2 recall: 0.8954635108481263
+Class3 recall: 0.9709835064141723
+Class4 recall: 0.8162393162393162
+ Misclassified 4s to class 2: 74
+ Misclassified 2s to class 4: 124
+  
+Results for c1 value :0.2
+Total Accuracy: 0.95685
+ f1 :0.9577678739019755
+Total Precision :0.9604681062623578
+Total Recall :0.95685
+Class1 precision: 0.9976737628647963
+Class2 precision: 0.8447352766210589
+Class3 precision: 0.8793103448275862
+Class4 precision: 0.732776617954071
+Class1 recall: 0.9603718531587162
+Class2 recall: 0.9335963182117029
+Class3 recall: 0.9813683567501528
+Class4 recall: 0.75
+ Misclassified 4s to class 2: 104
+ Misclassified 2s to class 4: 65
+  
+Results for c1 value :0.4
+Total Accuracy: 0.95735
+ f1 :0.9583323221609243
+Total Precision :0.9609568472385596
+Total Recall :0.95735
+Class1 precision: 0.9976762199845082
+Class2 precision: 0.8529055690072639
+Class3 precision: 0.8800768386388584
+Class4 precision: 0.7216699801192843
+Class1 recall: 0.9613896993960779
+Class2 recall: 0.9263642340565418
+Class3 recall: 0.9795357361026268
+Class4 recall: 0.7756410256410257
+ Misclassified 4s to class 2: 93
+ Misclassified 2s to class 4: 74
+  
+Results for c1 value :0.6
+Total Accuracy: 0.95135
+ f1 :0.952740288451033
+Total Precision :0.95674000295973
+Total Recall :0.95135
+Class1 precision: 0.9983640372714987
+Class2 precision: 0.8582725060827251
+Class3 precision: 0.8500928628283364
+Class4 precision: 0.7121212121212122
+Class1 recall: 0.9524326525072946
+Class2 recall: 0.9276791584483892
+Class3 recall: 0.9786194257788637
+Class4 recall: 0.8034188034188035
+ Misclassified 4s to class 2: 83
+ Misclassified 2s to class 4: 80
+  
+Results for c1 value :0.8
+Total Accuracy: 0.95305
+ f1 :0.9543567728341957
+Total Precision :0.9577966824252744
+Total Recall :0.95305
+Class1 precision: 0.9977345132743363
+Class2 precision: 0.8529411764705882
+Class3 precision: 0.8642008639308856
+Class4 precision: 0.6957328385899815
+Class1 recall: 0.9563004682092692
+Class2 recall: 0.9151873767258383
+Class3 recall: 0.9777031154551008
+Class4 recall: 0.8012820512820513
+ Misclassified 4s to class 2: 85
+ Misclassified 2s to class 4: 92
+  
